@@ -1,1 +1,3 @@
 npx expo 
+npm install @clerk/clerk-expo
+npx expo install expo-secure-store
