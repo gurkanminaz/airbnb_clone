@@ -2,3 +2,5 @@ npx expo
 npm install @clerk/clerk-expo
 npx expo install expo-secure-store
 npx expo install expo-haptics
+npx expo install react-native-reanimated
+npx expo start -c
