@@ -6,3 +6,5 @@ npx expo install react-native-reanimated
 npx expo start -c
 npx expo install react-native-maps
 npm install --save react-native-map-clustering
+npm install @gorhom/bottom-sheet@^4
+npx expo install react-native-gesture-handler
