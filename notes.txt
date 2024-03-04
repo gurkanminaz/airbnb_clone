@@ -4,3 +4,5 @@ npx expo install expo-secure-store
 npx expo install expo-haptics
 npx expo install react-native-reanimated
 npx expo start -c
+npx expo install react-native-maps
+npm install --save react-native-map-clustering
